@@ -15,7 +15,3 @@ Você pode clicar em "clone ou download" acima e copiar o link, ou copiar a segu
 
 Para iniciar o **projeto local**, usando yarn:
 > yarn start
-
-## Deploy
-
-> https://codenation-insta-deborafelix.netlify.app/
